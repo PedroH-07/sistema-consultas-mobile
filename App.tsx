@@ -5,8 +5,8 @@ import { StatusBar } from "expo-status-bar";
 // Importando a modelagem TypeScript que criamos nas aulas anteriores
 import { Especialidade } from "./src/types/especialidade";
 import { Paciente } from "./src/types/paciente";
-import { Medico } from "./src/interface/medico";
-import { Consulta } from "./src/interface/consulta";
+import { Medico } from "./src/interfaces/medico";
+import { Consulta } from "./src/interfaces/consulta";
 
 export default function App() {
   // Dados base (simulando o que tínhamos no backend)
