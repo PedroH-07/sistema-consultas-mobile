@@ -70,5 +70,7 @@ export default function Home() {
         />
       </ScrollView>
     </View>
+
+    // testado
   );
 }
